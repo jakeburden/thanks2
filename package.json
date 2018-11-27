@@ -1,6 +1,6 @@
 {
   "name": "thanks2",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Say thanks to the open source maintainers of your project.",
   "main": "index.js",
   "bin": "bin.js",
