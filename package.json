@@ -1,0 +1,21 @@
+{
+  "name": "thanks2",
+  "version": "1.0.0",
+  "description": "Say thanks to the open source maintainers of your project.",
+  "main": "index.js",
+  "bin": "bin.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "thanks",
+    "open",
+    "source"
+  ],
+  "author": "Jake Burden <jake@burden.blog>",
+  "license": "MIT",
+  "dependencies": {
+    "npm-logical-tree": "^1.2.1",
+    "pacote": "^9.2.3"
+  }
+}
